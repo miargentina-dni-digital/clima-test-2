@@ -1,20 +1,20 @@
 {
   "name": "Clima Buenos Aires",
-  "short_name": clima-test-2",
-  "start_url": "clima-test-2",
-  "scope": "clima-test-2",
+  "short_name": "clima-test-2",
+  "start_url": "/clima-test-2/",
+  "scope": "/clima-test-2/",
   "display": "standalone",
   "background_color": "#1f1f1e",
   "theme_color": "#1f1f1e",
   "orientation": "portrait",
   "icons": [
     {
-      "src": "icons/mist.png",
+      "src": "/clima-test-2/icons/mist.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "icons/mist.png",
+      "src": "/clima-test-2/icons/mist.png",
       "sizes": "512x512",
       "type": "image/png"
     }
