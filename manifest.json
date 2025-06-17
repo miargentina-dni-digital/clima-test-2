@@ -1,0 +1,22 @@
+{
+  "name": "Clima Buenos Aires",
+  "short_name": "Clima BA",
+  "start_url": "/clima-test-2/index.html",
+  "scope": "/clima-test-2/",
+  "display": "standalone",
+  "background_color": "#1f1f1e",
+  "theme_color": "#1f1f1e",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icons/mist.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/mist.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
