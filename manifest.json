@@ -1,8 +1,8 @@
 {
   "name": "Clima Buenos Aires",
   "short_name": "Clima BA",
-  "start_url": "/clima-test-2/index.html",
-  "scope": "/clima-test-2/",
+  "start_url": "clima-test-2",
+  "scope": "clima-test-2",
   "display": "standalone",
   "background_color": "#1f1f1e",
   "theme_color": "#1f1f1e",
